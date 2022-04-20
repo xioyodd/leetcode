@@ -17,7 +17,3 @@ class Solution:
             fast = fast.next.next
             slow = slow.next
         return slow
-
-test = ListNode(val=1)
-sol = Solution()
-print(sol.middleNode(test))
