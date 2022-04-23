@@ -1,5 +1,3 @@
-[Notion](https://www.notion.so/xioyo/leetcode-48e35a0e66174e8ca2550b54fdeb6003)
-
 https://labuladong.gitee.io/algo/
 
 https://labuladong.github.io/algo/
@@ -16,8 +14,11 @@ https://labuladong.github.io/algo/
       - 滑动窗口
   - 链表
     - 双指针
-      - 快慢指针判断链表中是否有环，环起点
+      - 快慢指针判断链表中是否有环，找环起点
     - 递归反转链表的一部分
+      - 前n个节点，第l到第r个节点
+    - 迭代K个一组反转链表
   - 二叉树
   - 图
   - 设计数据结构
+
